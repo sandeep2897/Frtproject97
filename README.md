@@ -2,8 +2,6 @@
 
 PROJECT LINK: https://green-bay-06b66bc00.4.azurestaticapps.net/#
 
-FRT Project
-
 Project Name: Yegna Delight's Restaurant
 
 Overview
@@ -12,8 +10,7 @@ This project aims to leverage Azure services and AI to create a web application 
 Azure Services Used
 Azure Virtual Machine: Created an Azure VM to host the web application.
 
-Azure Health Bot: Incorporated Azure Health Bot to provide health-related services within the web application.
-
+Azure Health Bot: Incorporated Azure Health Bot to provide provide food suggestions based on their health conditions
 Azure Static Web Apps: Utilized Azure Static Web Apps to deploy and host the web application.
 
 Azure Storage Account: Utilized Azure Storage Account to store and manage files, such as images or documents, for the web application.
@@ -35,7 +32,7 @@ Pushing Code to GitHub:
 Used PuTTYGen and PuTTY to generate SSH keys and push code to GitHub repository.
 Incorporating Azure Health Bot:
 
-Integrated Azure Health Bot into the web application to provide health-related services.
+Integrated Azure Health Bot into the web application to provide food suggestions based on their health conditions.
 Utilizing Azure Storage Account:
 
 Set up Azure Storage Account to store and manage files required for the web application.
