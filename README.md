@@ -3,7 +3,45 @@
 PROJECT LINK: https://green-bay-06b66bc00.4.azurestaticapps.net/#
 
 FRT Project
-Yegna Delight's Restaurant
+
+Project Name: Yegna Delight's Restaurant
+
+Overview
+This project aims to leverage Azure services and AI to create a web application for FRT virtual Internship Project 
+
+Azure Services Used
+Azure Virtual Machine: Created an Azure VM to host the web application.
+
+Azure Health Bot: Incorporated Azure Health Bot to provide health-related services within the web application.
+
+Azure Static Web Apps: Utilized Azure Static Web Apps to deploy and host the web application.
+
+Azure Storage Account: Utilized Azure Storage Account to store and manage files, such as images or documents, for the web application.
+
+Technologies Used
+HTML: Used for structuring the web pages.
+
+CSS: Utilized for styling the web pages.
+
+Process
+Creating Azure Virtual Machine:
+
+Created an Azure Virtual Machine to host the web application.
+Writing HTML and CSS:
+
+Developed HTML and CSS code for the web application's frontend.
+Pushing Code to GitHub:
+
+Used PuTTYGen and PuTTY to generate SSH keys and push code to GitHub repository.
+Incorporating Azure Health Bot:
+
+Integrated Azure Health Bot into the web application to provide health-related services.
+Utilizing Azure Storage Account:
+
+Set up Azure Storage Account to store and manage files required for the web application.
+Deploying with Azure Static Web Apps:
+
+Deployed the web application using Azure Static Web Apps to make it accessible online.
 
 This is a web based application developed for Health and Lifestyle based website in india
 
