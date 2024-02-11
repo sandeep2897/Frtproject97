@@ -2,7 +2,7 @@
 
 PROJECT LINK: https://green-bay-06b66bc00.4.azurestaticapps.net/#
 
-frtproject
+FRT Project
 Yegna Delight's Restaurant
 
 This is a web based application developed for Health and Lifestyle based website in india
