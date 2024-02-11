@@ -8,9 +8,11 @@ Overview
 This project aims to leverage Azure services and AI to create a web application for FRT virtual Internship Project 
 
 Azure Services Used
+
 Azure Virtual Machine: Created an Azure VM to host the web application.
 
 Azure Health Bot: Incorporated Azure Health Bot to provide provide food suggestions based on their health conditions
+
 Azure Static Web Apps: Utilized Azure Static Web Apps to deploy and host the web application.
 
 Azure Storage Account: Utilized Azure Storage Account to store and manage files, such as images or documents, for the web application.
